@@ -1,4 +1,3 @@
-#Eureka Discovery Client Configurations
 eureka:
   instance:
     prefer-ip-address: true
